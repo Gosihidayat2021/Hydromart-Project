@@ -1,0 +1,8 @@
+{
+    "AutoLua.settings.ignoreFileMatch": [
+        ".vscode",
+        "screenshot",
+        ".vscode/**",
+        "screenshot/**"
+    ]
+}

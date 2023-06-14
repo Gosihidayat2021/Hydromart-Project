@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444637177346",
+    "project_id": "hydromart2023",
+    "storage_bucket": "hydromart2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444637177346:android:1d03985dc289ce7f4ee91b",
+        "android_client_info": {
+          "package_name": "com.hydromart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0svX9GAx3b5YPh0tMm-P8OLJvg1Ng1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
